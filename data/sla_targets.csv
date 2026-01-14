@@ -1,0 +1,5 @@
+priority,first_response_minutes,resolution_minutes
+low,1440,14400
+medium,720,7200
+high,240,2880
+urgent,60,1440

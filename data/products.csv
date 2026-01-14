@@ -1,0 +1,16 @@
+product_id,product_name,tier
+1,AcmePay,Free
+2,AcmeCloud,Enterprise
+3,AcmeShop,Enterprise
+4,AcmeMobile,Standard
+5,AcmePro,Business
+6,AcmeAnalytics,Free
+7,AcmeMail,Standard
+8,AcmeSecure,Standard
+9,AcmeCRM,Standard
+10,AcmeDocs,Enterprise
+11,AcmeMeet,Business
+12,AcmeDrive,Standard
+13,AcmeAI,Business
+14,AcmeBilling,Enterprise
+15,AcmeSupport,Enterprise

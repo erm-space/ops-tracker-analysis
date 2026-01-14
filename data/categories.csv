@@ -1,0 +1,13 @@
+category_id,category_name
+1,Login
+2,Billing
+3,Bug
+4,Account
+5,Feature Request
+6,Performance
+7,Integration
+8,Security
+9,Mobile App
+10,Data Export
+11,Permissions
+12,Other
